@@ -5,33 +5,61 @@
 ##  一、必做部分
 
 ### 1. 安装Git
-《截图》
+![image.png](https://i.loli.net/2021/05/31/QYJNW3auCgMFwhf.png)
+![image.png](https://i.loli.net/2021/05/31/3megMSJHTxuGREv.png)
 
 ### 2. 创建版本库
+![image.png](https://i.loli.net/2021/05/31/hkDXMTJZ8PKumSn.png)
+![image.png](https://i.loli.net/2021/05/31/suRvbIUyjXzBY1M.png)
 
 ### 3. 版本控制
+![image.png](https://i.loli.net/2021/05/31/eYVrDbtAOECmkSp.png)
 
 ### 4. 版本回退
+![image.png](https://i.loli.net/2021/05/31/chdzeYv5QTKPGmg.png)
+![image.png](https://i.loli.net/2021/05/31/hIbz6yFel9Bqr5C.png)
 
 ### 5. 工作区和暂存区
+![image.png](https://i.loli.net/2021/05/31/ubOxzjm7f2WSHYQ.png)
 
 ### 6. 管理修改
 
+#### 6.1 第二次修改没有被提交时
+![image.png](https://i.loli.net/2021/05/31/I8ngDqpMwLrT29G.png)
+
+### 6.2 第二次修改被提交了时
+通过操作第一次修改->git add->第二次修改->git add->git commit
+![image.png](https://i.loli.net/2021/05/31/UdhsorbwW27jy1E.png)
+
 ### 7. 撤销修稿
 
+#### 7.1 撤销最近一次的修改
+![image.png](https://i.loli.net/2021/05/31/pqZjA2JGmYoMlU1.png)
+
+#### 7.2撤销已经在暂存区的修改
+![image.png](https://i.loli.net/2021/05/31/5DZhIAWPmLCQUNB.png)
+
 ### 8. 删除文件
+下图操作删除“readme.txt”文件
+![image.png](https://i.loli.net/2021/05/31/1QUrDlSmZBd8faY.png)
+初始时有三个“readme.txt”“reademe.txt”“LICENSE”三个文件，最后剩下“readme.txt”“LICENSE”两个文件
 
 ### 9. 远程仓库
+![image.png](https://i.loli.net/2021/05/31/WjsZn4P58RMgVvU.png)
+![image.png](https://i.loli.net/2021/05/31/OuoqWw3P9mlgBSr.png)
+![image.png](https://i.loli.net/2021/05/31/FzLnZ4AGOpqMl2d.png)
 
 ### 10. 添加到远程仓库
+![image.png](https://i.loli.net/2021/05/31/GaVLo7dmA3C2x8H.png)
+![image.png](https://i.loli.net/2021/05/31/OD8Zds5h9X7fMbU.png)
 
 ## 二、选做部分
 
-### ()
+### (一)分支管理
 
-####
+#### 1、创建与合并分支
 
-####
+#### 2、解决冲突
 
 ## 三、实验过程
 （简单描述实验过程）
